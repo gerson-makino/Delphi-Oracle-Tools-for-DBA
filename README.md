@@ -20,7 +20,7 @@ You are free to use this tool even for particular or corporate use.
 
 Just send an email so I can provide you information about updates and future versions.
 
-gerson.makino@fatec.sp.gov.br
+gerson.makino@hotmail.com
 
 
 -------------------------------------------------------------------------------

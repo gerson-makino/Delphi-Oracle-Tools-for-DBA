@@ -1,5 +1,5 @@
-# gtidbadm
-GTI Database Administration Tools
+# Delphi Oracle Tools for DBA
+Delphi Oracle Tools - Database Administration Tools
 
 -------------------------------------------------------------------------------
 1. Description
@@ -11,6 +11,8 @@ The following features are available:
 - Scripts organization by projects
 - The project interface is quite similar to "windows explorer" 
 - Several graphics can be created or customized using results from your sql commands
+
+It was developed using RAD Studio (AKA Delphi)
 
 
 -------------------------------------------------------------------------------
